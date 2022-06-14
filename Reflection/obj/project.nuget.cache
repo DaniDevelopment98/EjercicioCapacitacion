@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BoFNZoFkcEku5kS+VJ6hRmEyHh+9T2Wo95ClUZ/jwwBFGzrphrjKhHq/lZtmyegDLYwyMbwy027vXzu+IGPjwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\Reflection\\Reflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
